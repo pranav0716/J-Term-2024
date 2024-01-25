@@ -20,14 +20,16 @@ The study utilizes a comprehensive dataset spanning from 2014 to the current yea
 
 ![](#example_table) This table shows the specifics of the data used, such as the latitude and longitude, and the exact date this data was taken.
 
-  
-
 ---
+
+![](#scatter_plot)
+The scatter plot showcases the average prices of plain pizza slices from 2014 to the present year. Each point on the plot represents the mean price for a specific year, offering a clear visual representation of the trend in average pricing over time. This analysis aids in identifying overarching patterns and understanding how the average cost of plain pizza slices has fluctuated throughout the study period.
+
+
 
 
 ![](#heatmap_w_slider)
 This geospatial heatmap provide a dynamic representation of plain pizza slice prices across different locations in NYC. The slider allows for an exploration of the temporal evolution, offering a nuanced view of how pricing patterns change from year to year. The intensity of color in the heatmap reflects the density of plain pizza slice prices over a decade, showcasing areas of concentration and potential trends.
-
 
 ---
 
