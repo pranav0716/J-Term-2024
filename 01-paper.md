@@ -23,17 +23,23 @@ The study utilizes a comprehensive dataset spanning from 2014 to the current yea
 ---
 
 ![](#scatter_plot)
-The scatter plot showcases the average prices of plain pizza slices from 2014 to the present year. Each point on the plot represents the mean price for a specific year, offering a clear visual representation of the trend in average pricing over time. This analysis aids in identifying overarching patterns and understanding how the average cost of plain pizza slices has fluctuated throughout the study period.
+The scatter plot showcases the average prices of plain pizza slices from 2014 to the present year. Each point on the plot represents the mean price for a specific year, offering a clear visual representation of the trend in average pricing over time. This analysis aids in identifying overarching patterns and understanding how the average cost of plain pizza slices has fluctuated throughout the study period. The increase in pizza prices in 2020 can be be linked with, what [Mishra, 2022](https://doi.org/10.1371/journal.pone.0264355) states, as COVID caused supply chain disruptions that increased the price of flour, one of the main ingredients in pizza. 
 
-
-
+---
 
 ![](#heatmap_w_slider)
 This geospatial heatmap provide a dynamic representation of plain pizza slice prices across different locations in NYC. The slider allows for an exploration of the temporal evolution, offering a nuanced view of how pricing patterns change from year to year. The intensity of color in the heatmap reflects the density of plain pizza slice prices over a decade, showcasing areas of concentration and potential trends.
 
 ---
 
+![](#heatmap_total)
+This geospatial heatmap provides a representation of all the data collected, and is useful as it shows which areas were the most concentrated, as well as which areas were not, helping us better understand different areas, demographics, and the socioeconomy of NYC.
 
+---
+
+## Conclusion
+
+This research sheds light on the evolving landscape of plain pizza slice prices in NYC, combining geospatial and temporal analyses. The visualizations provide a comprehensive overview, enabling stakeholders, researchers, and enthusiasts to gain valuable insights into the factors shaping the cost of this iconic New York City culinary experience.
 
 ## References
 
