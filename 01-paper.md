@@ -18,15 +18,15 @@ The study utilizes a comprehensive dataset spanning from 2014 to the current yea
 
 ## Data Visualization
 
-[This table](#example_table) shows the specifics of the data used. 
+![](#example_table) This table shows the specifics of the data used, such as the latitude and longitude, and the exact date this data was taken.
 
- [This scatter plot](#scatter_plot)showcases the average prices of plain pizza slices from 2014 to the present year. Each point on the plot represents the mean price for a specific year, offering a clear visual representation of the trend in average pricing over time. This analysis aids in identifying overarching patterns and understanding how the average cost of plain pizza slices has fluctuated throughout the study period. We see a notable increase in price after 2020, which [Mishra, 2022](https://doi.org/10.1371/journal.pone.0264355) states is a result of supply chain disruptions during COVID, leading to an increase in price of wheat flour, a main ingredient in pizza dough. 
+  
 
 ---
 
 
-
-These geospatial heatmaps provide a dynamic representation of plain pizza slice prices across different locations in NYC. The slider allows for an exploration of the temporal evolution, offering a nuanced view of how pricing patterns change from year to year. The intensity of color in the heatmap reflects the density of plain pizza slice prices over a decade, showcasing areas of concentration and potential trends.
+![](#heatmap_w_slider)
+This geospatial heatmap provide a dynamic representation of plain pizza slice prices across different locations in NYC. The slider allows for an exploration of the temporal evolution, offering a nuanced view of how pricing patterns change from year to year. The intensity of color in the heatmap reflects the density of plain pizza slice prices over a decade, showcasing areas of concentration and potential trends.
 
 
 ---
